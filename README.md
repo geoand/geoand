@@ -4,7 +4,7 @@
 ---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 ### About
 
--  **Role:** Principal Software Engineer
+-  **Role:** Senior Principal Software Engineer
 -  **Organization:** Red Hat
 
 [![Github stats](https://github-readme-stats.vercel.app/api?username=geoand)](https://github.com/geoand)
